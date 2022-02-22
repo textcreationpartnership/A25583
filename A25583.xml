@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the character of an exchange-wench, or, A Vindication of an exchange-woman</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25583</idno>
+            <idno type="STC">Wing A3397</idno>
+            <idno type="STC">ESTC R28298</idno>
+            <idno type="EEBO-CITATION">10521500</idno>
+            <idno type="OCLC">ocm 10521500</idno>
+            <idno type="VID">45174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the character of an exchange-wench, or, A Vindication of an exchange-woman</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Croskill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  England --  Employment --  Early works to 1800.</term>
+               <term>Women --  England --  Social conditions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45174:1"/>
+            <pb facs="tcp:45174:1" rendition="simple:additions"/>
+            <p>AN ANSWER To the Character of an Exchange-wench: OR A VINDICATION OF AN Exchange-woman.</p>
+            <p>LONDON, Printed for <hi>Thomas Croſkill.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45174:2"/>
+            <pb n="1" facs="tcp:45174:2" rendition="simple:additions"/>
+            <head>AN ANSVVER TO THE Character of an Exchange-wench.</head>
+            <p>AN Exchange-Woman does as far exceed a meer Gentle-Woman, as a Civil Tradeſman does a common Shark, having a commenda<g ref="char:EOLhyphen"/>ble Calling to vouch for her honeſty. She's one Bow with two ſtrings, being generally born to a compitable Fortune, ſhe wiſely ſhrowds her ſelf under the ſafe Covert of a good Trade. To ſecure her feli<g ref="char:EOLhyphen"/>city; her Shop ſerves her inſtead of a Nunnery, where being bufied with the concerns of a laudable calling, ſhe forgets, or neglects the Debauches of the Town: She's rail'd in like an Altar, and ſecur'd by a Partition as a thing that's ſacred. She's as tempting as the forbidden Fruit,
+<pb n="2" facs="tcp:45174:3"/>and has a <hi>Noli me tangere</hi> for her Motto: She needs no o<g ref="char:EOLhyphen"/>ther Purgatory, having gone through the ſtrict Diſcipline of a ſevere Miſtreſs, whereby ſhe becomes ſo accuſtomed to Vertue, that at length it grows Natural. She is that poli<g ref="char:EOLhyphen"/>tick Hermophrodite, who acts the part both of Man and Woman, in preſerving both her Honour and Family; a large Book with a little Title, being really worth five times as much as her Fortune; She's an En-tail for Life, and who<g ref="char:EOLhyphen"/>ever has her may reckon he has purchas'd above a hundred a Year.</p>
+            <p>As for her Original ſhe is generally the Honourable off-ſpring of ſome Country Gentleman, who being curſt with a multitude of Bleſſings (I mean Children) and by ambition made ſlave to his eldeſt Son, is forced to piece out his Daugh<g ref="char:EOLhyphen"/>ters fortune with a profitable employ, which is often the Stirrop to ſublimer Fortune.</p>
+            <p>Her Education is as Gentile as her Birth, and ſhe knows not but ſhe's a Fortune till ſhe goes to receive it. She is re<g ref="char:EOLhyphen"/>ſpected according to the noiſe of her Fathers Eſtate, which is generally two hundred a year, and kept as fine in her Child-hood as if ſhe were to enjoy it her ſelf.</p>
+            <p>Her Vertuous Education breeds in her ſo ſweet an Inno<g ref="char:EOLhyphen"/>cence that ſhe dreads to look in a Mans face for fear of diſ<g ref="char:EOLhyphen"/>covering his deſires at his Eyes, and if he ſays but <hi>'Faith,</hi> ſhe preſently corrects him for Swearing. She has ſuch a pro<g ref="char:EOLhyphen"/>penſity to goodneſs that ſhe acts it unawares, and often ſur<g ref="char:EOLhyphen"/>prizes both her ſelf and others with her own Vertue. She is as ignorant of Vice, as of <hi>Terra Incognita</hi> and though ſhe
+<pb n="3" facs="tcp:45174:3" rendition="simple:additions"/>deſigned to be wicked ſhe would not know how to effect it. She often wonders at the production of mankind, and lives to eleven or twelve years of Age before ſhe's convinc'd that ſhe did not ſpring out of the Parſly-Bed.</p>
+            <p>Thus having the advantages of a Gentile Birth, good E<g ref="char:EOLhyphen"/>ducation, and vertuous Inclination; ſhe is deſign'd by her Pa<g ref="char:EOLhyphen"/>rents, whoſe affections are larger then their <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ags (their Quality obliging them to live up to the heighth of their E<g ref="char:EOLhyphen"/>ſtate) to be put under the diſcreet tuition of ſome honeſt and able Exchange-Woman, thereby to obtain an honeſt and honourable employment, to ſecure her from thoſe ſtorms of Fate which are commonly ſevere on little Fortunes.</p>
+            <p>That the Employment is as honourable as any other In-Land Trade cannot be denyed, they enjoying the ſame Privi<g ref="char:EOLhyphen"/>ledges, dealing in as Rich Commodities, and having attain'd as great Eſtates, as any other Vocation whatſoever. Which hath induc'd many noble families diſtreſſed by War, or Ac<g ref="char:EOLhyphen"/>cidents, to bring up their Daughters to this Calling where<g ref="char:EOLhyphen"/>in ſome have prov'd ſo fortunate as to give a happy Reſur<g ref="char:EOLhyphen"/>rection to their whole family. And at this day Heaven is ſo kind to their commendable endeavours, as to recompence their good deſigns with unexpected ſucceſs, of which, ſhould I give a Catalogue of thoſe young Ladies, whoſe unparallel'd Vertue, and good deportment have tempted Men of extraor<g ref="char:EOLhyphen"/>dinary Eſtates to deſire them in Marriage; I ſhould write ra<g ref="char:EOLhyphen"/>ther a Volumn then a ſheet: But my deſign in Writing be<g ref="char:EOLhyphen"/>ing only to reſcue that honourable Society, from the bitter invectives of that Satyrical Character, I ſhall forbear parti<g ref="char:EOLhyphen"/>culars, and only acquaint you, That the Exchange it ſelf is no leſs than an Academy, and the Youth therein, the dilligent
+<pb n="4" facs="tcp:45174:4"/>Student of Vertue and good manners, 'tis true, there is ſome Sub graduates, and other Miſtreſſes of Arts, who like kind and careful Tutoreſſes take ſuch pains with their Pupils, that they never leave inſtructing them till they have made them as knowing as themſelves; If any prove vitious or Irrefectory they are preſently expell'd.</p>
+            <p>So that an Exchange Maid is a refin'd <hi>Vertuoſa,</hi> one who has ſeal'd her Gentility, with the Martyrdom of an Appren<g ref="char:EOLhyphen"/>ticeſhip, ſhe's as happy in her Shop as a Miſs in a Play<g ref="char:EOLhyphen"/>houſe: and better pleas'd with the moderate gains of an ho<g ref="char:EOLhyphen"/>neſt Trade, than the other is with the Extravagant Allow<g ref="char:EOLhyphen"/>ance of a Wild Gallant, ſhe's ſo far from being a drudge to the world that ſhe ſits ſtill and gets an Eſtate.</p>
+            <p>The whole Town's her Labourer, and he that goes fineſt her greateſt ſlave, who as if his Money were a bad Commo<g ref="char:EOLhyphen"/>dity fooliſhly exchanges it for Lace or Ribbonds; as Bubbles do to Gameſters, he brings her Caſh whether ſhe will or no; He's her meer ſubject, and like the <hi>French</hi> King ſhe impoſes a Tax upon every thing he wears. How then can ſhe be un<g ref="char:EOLhyphen"/>happy when even our fancies and Extravagancies contribute to her welfare.</p>
+            <p>She's a Creature ready cut and dry'd for all preferment, and no leſs than a coach and ſix, can tempt her from her em<g ref="char:EOLhyphen"/>ployment, an arrogant Fop that courts her to a ſmile, ſwears he has got her heart, and with himſelf contrives an aſſignati<g ref="char:EOLhyphen"/>on, when ſhe only did it, either in complaiſance to his folly or her own advantage.</p>
+            <pb n="5" facs="tcp:45174:4" rendition="simple:additions"/>
+            <p>A ſpruce Cit, briſtles up to her like a Turky-cock, and would fain be Trading, but as ſhe has attractions to draw, ſo ſhe has diſcretion to ſlight his Amours, her facetious diſ<g ref="char:EOLhyphen"/>courſe, makes him think her eaſie to come at, when, indeed ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> does it as Welſhmen on H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls, who though they <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> near together, are really likely never to meet.</p>
+            <p>In ſhort, her ſmilles are innocent, as ſleeping Infants, and ſhe preſerves her ſelf an un-blemiſh'd Sacrifice for a happy Husband; She has all the accompliſhments of a Gentle Woman, but if ſhe be defective in any thing 'tis Vice, being un-acquainted with the Gallants; She's a Stran<g ref="char:EOLhyphen"/>ger to deceit, and hating the ratling of a Coach remains untainted with the Pleaſures and Debauches of the Town.</p>
+            <p>In her Shop ſhe patiently attends both her buſineſs and Fate, and when ſhe marries needs no advice from a Mid-Wife to cheat her Husband into the belief of a Maiden-head: In fine ſhe is happy as ſhe is, but if ſhe alter her condition, experience ſhews us, ſhe may become a Dutcheſs.</p>
+            <lg>
+               <head>To the Exchange Maids.</head>
+               <l>THus I like you have waſted three hours time,</l>
+               <l>To hide your wrinkles and to make you fine;</l>
+               <l>Your ſickly Credits I ſo well reſtore;</l>
+               <l>I make you more renowned than before:</l>
+               <l>The Character you know was ſomething Witty,</l>
+               <l>And 'Faith to ſpeak the Truth, I think it hit you,</l>
+               <pb n="6" facs="tcp:45174:5" rendition="simple:additions"/>
+               <l>The Authour knows your tricks, and ſpoke the more,</l>
+               <l>Becauſe he had been bit by you before.</l>
+               <l>His Paſſion therefore (Ladies) don't admire,</l>
+               <l>
+                  <hi>A Child that's burnt, does always dread the Fire.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with Frowns— But caſt your ſmiles on him.</l>
+               <l>Who took this paine to ranſome your <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>The Theme was barren, and did plague me more,</l>
+               <l>Then any Subject e're I writ before:</l>
+               <l>'Twas full an hour e're my Muſe could raiſe</l>
+               <l>A true expreſſion to ſet out your Praiſe;</l>
+               <l>Which that my brooding thoughts did e're impart,</l>
+               <l>Was more my fancy then your due deſert.</l>
+               <l>Like him who courts a homely Miſtreſs, <hi>I</hi>
+               </l>
+               <l>Was forc'd to give my Conſcience the Lye.</l>
+               <l>And (Heavens forgive me) I know ne're a Line,</l>
+               <l>In all the Sheet, but what I think's a ſin.</l>
+               <l>And ſince you're Sinners too, I only wiſh</l>
+               <l>That we may <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in better Sheets than this.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45174:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
